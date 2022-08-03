@@ -192,19 +192,6 @@ The deployment process was done via GitHub Pages. From the Github Pages tab, I f
 
 <hr>
 <p>&nbsp</p>
- 
-
-## Credits
-A big shout out to my mentor, **Cans Sucullu** for guiding me through the process and helping me thrash out the scope. Always quick to point me in the right direction, offering assistance when necessary.
-
-I was also fortunate to have be aided by mentor, **Reuben Ferrante** who provided countless points of reference.
-
-The community on Slack, the help and feedback a student is able to receive from the peers and alumni is a really invaluable tool to have.
-
-Both James Quick's and Michael Karen's various articles and tutorials on **Local Storage** and creating a **high scores list**  [Learn Build Teach](https://discord.com/invite/vM2bagU) and Tetris builds [Learning Modern Javascript with Tetris](https://michael-karen.medium.com/learning-modern-javascript-with-tetris-92d532bcd057)
-
-<hr>
-<p>&nbsp</p>
 
  
 
