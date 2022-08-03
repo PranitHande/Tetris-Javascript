@@ -90,12 +90,6 @@ I identified 2 groups of user for this site,
 * ### Footer
     * The footer contains not only social media links, by references to other Tetris sites.
     * The player can engage with the broader Tetris community via facebook or twitter, or find out more information via the official Tetris website.
-    * All links open new browser windows.
-    * ![Footer](assets/images/readme-imgs/footer.png)
-* ### External Links
-    * [Facebook](https://www.facebook.com/Tetris/)
-    * [Twitter](https://twitter.com/Tetris_Official)
-    * [Tetris](https://tetris.com/)
  <hr>
 <p>&nbsp</p>
 
@@ -178,21 +172,6 @@ The site was tested with the amireponsive tool to determine how well it would lo
    * ![amIResponsive](assets/images/readme-imgs/amIResponsive.jpg)
  <hr>
 <p>&nbsp</p>
-
-## Deployment
-I have hosted my site on github pages, it can be accessed from the following url:
-[Tetris Javascript](https://iainknox.github.io/tetris-javascript/) 
-
-The deployment process was done via GitHub Pages. From the Github Pages tab, I followed these steps to ensure the site was live:
- * Ensured that the **main** branch was selected as the **source**  from which it was built.
- *  I then selected **save** at which point Github alerted me that the site was ready to be published at the provided address(linked above).
- * When clicking on the link, a new browser window was opened and the live site was made available.
-    * [Github Deployment](assets/images/readme-imgs/github-deployment.png)
-
-
-<hr>
-<p>&nbsp</p>
-
  
 
 ## Content
